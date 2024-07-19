@@ -1,36 +1,36 @@
                   
- <h1 align="center" style="font-weight: bold;">Full-Stack Trip Planner Web App</h1>
+<h1 align="center" style="font-weight: bold;">Full-Stack Trip Planner Web App</h1>
 
 <p align="center">
 <a href="#tech">Technologies |</a>
 <a href="#features">Features |</a>
 <a href="#layout">Layout |</a>
-<a href="#pre">Prerequisites |</a>
+<a href="#pre">Prerequisites</a>
  
 </p>
 
 <p align="center">A full-stack web application that helps users plan their trips by providing AI-powered recommendations for travel itineraries, places to visit, and hotels. This app integrates Google Generative AI for dynamic travel planning, Firebase for data storage, and Google Places API for fetching detailed information about places and hotels. </p>
 
 
-<h2 align="center">
+<h3 align="center">
 <a href="https://ai-trip-planner-barika.vercel.app/" target="_blank">📱 Visit this Project</a>
-</h2>
+</h3> <be>
 
 <h2 id="technologies">💻 Technologies</h2>
 
-Frontend:
+<b><em>Frontend:</b></em>
 
 - React: For building the user interface and handling frontend logic.
 - TailwindCSS: For styling and responsive design.
 - Axios: For making HTTP requests to external APIs.
 
-Backend & Services:
+<b><em>Backend & Services:</b></em>
 - Google Generative AI API: For generating AI-powered travel recommendations and itineraries.
 - Google Places API: For retrieving detailed information about places, hotels, and their photos.
 - Firebase Firestore: For storing and managing user trip data.
 - Firebase Authentication: For handling user authentication via Google OAuth.
 
-- <h2 id="features">Features</h2>
+<h2 id="features">🚀 Features</h2>
 
 - AI-Powered Travel Plans: Generate personalized travel itineraries and hotel recommendations using Google Generative AI.
 - Dynamic Place Information: Retrieve and display detailed information and photos of places and hotels using Google Places API.
@@ -63,7 +63,7 @@ Backend & Services:
 </p>
  
 
-<h2 id="pre">Prerequisites</h2>
+<h2 id="pre">🗁 Prerequisites</h2>
 
 - Node.js & npm
 - Firebase Project: Set up a Firebase project and configure Firestore and Authentication. Obtain your Firebase configuration keys.
