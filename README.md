@@ -14,7 +14,7 @@
 
 <h3 align="center">
 <a href="https://ai-trip-planner-barika.vercel.app/" target="_blank">📱 Visit this Project</a>
-</h3> <be>
+</h3> <br>
 
 <h2 id="technologies">💻 Technologies</h2>
 
@@ -30,7 +30,7 @@
 - Firebase Firestore: For storing and managing user trip data.
 - Firebase Authentication: For handling user authentication via Google OAuth.
 
-<h2 id="features">🚀 Features</h2>
+<br><h2 id="features">🚀 Features</h2>
 
 - AI-Powered Travel Plans: Generate personalized travel itineraries and hotel recommendations using Google Generative AI.
 - Dynamic Place Information: Retrieve and display detailed information and photos of places and hotels using Google Places API.
@@ -40,9 +40,9 @@
 - Travel Itineraries: Detailed daily travel plans including attractions, timings, and ticket pricing.
 
  
-<h2 id="layout">🎨 Layout</h2>
+<br><h2 id="layout">🎨 Layout</h2>
 
-<h3>
+<p>
 Home Page:
 <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/1.1.png" alt="">
 
@@ -59,8 +59,8 @@ My Trips Page:
 <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/6.png" alt="">
 
 Responsive view on mobile:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt="">
-</h3>
+<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt=""  width="500px>
+</p>
  
 
 <h2 id="pre">🗁 Prerequisites</h2>
