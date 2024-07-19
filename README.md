@@ -58,8 +58,8 @@ View Trip Page: AI-generated Hotel Recommendations & Places to Visit
 My Trips Page:
 <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/6.png" alt="">
 
-Responsive view on mobile:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt="" width="50%" align="center">
+Responsive view on mobile: <br>
+<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt="" width="30%" align="center">
 </p>
  
 
