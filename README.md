@@ -42,25 +42,25 @@
  
 <h2 id="layout">🎨 Layout</h2>
 
-<p>
-:heavy_check_mark: Home Page:
+<h3>
+Home Page:
 <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/1.1.png" alt="">
 
-:heavy_check_mark: Google OAuth Sign in:
+Google OAuth Sign in:
   <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/2.png" alt="">
   
-:heavy_check_mark: Create Trip Page:
+Create Trip Page:
 <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/4.4.png" alt="">
 
-:heavy_check_mark: View Trip Page: AI-generated Hotel Recommendations & Places to Visit
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/7.png" alt="" width="800px">
+View Trip Page: AI-generated Hotel Recommendations & Places to Visit
+<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/7.png" alt="" width="600px">
 
-:heavy_check_mark: My Trips Page:
+My Trips Page:
 <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/6.png" alt="">
 
-:heavy_check_mark: Responsive view on mobile:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.png" alt="">
-</p>
+Responsive view on mobile:
+<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt="">
+</h3>
  
 
 <h2 id="pre">🗁 Prerequisites</h2>
