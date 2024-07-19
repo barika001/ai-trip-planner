@@ -53,13 +53,13 @@ Create Trip Page:
 <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/4.4.png" alt="">
 
 View Trip Page: AI-generated Hotel Recommendations & Places to Visit
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/7.png" alt="" width="600px">
+<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/7.png" alt="" width="75%" align="center">
 
 My Trips Page:
 <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/6.png" alt="">
 
 Responsive view on mobile:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt=""  width="500px>
+<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt="" width="50%" align="center">
 </p>
  
 
